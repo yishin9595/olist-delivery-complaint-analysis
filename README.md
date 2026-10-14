@@ -150,7 +150,8 @@ delay_days = 實際送達日期 - 預計送達日期
 - Seaborn
 - Jupyter Notebook
 
-## Analysis Notebook
+## Jupyter Notebook
 
-- olist_delivery_complaint_analysis.ipynb
+- [olist_delivery_complaint_analysis.ipynb](./olist_delivery_complaint_analysis.ipynb)
+
 
